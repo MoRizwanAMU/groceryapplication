@@ -1,10 +1,9 @@
 const categories = [
-  { name: "Pantry", image: "/images/pantry.jpg" },
-  { name: "Snacks", image: "/images/snacks.jpg" },
-  { name: "Produce", image: "/images/produce.jpg" },
-  { name: "Beverages", image: "/images/beverages.jpg" },
-  { name: "Frozen", image: "/images/frozen.jpg" },
-  { name: "Dairy", image: "/images/dairy.jpg" },
+  { name: "Pantry", image: "pantry.jpeg" },
+  { name: "Snacks", image: "snacks.jpeg" },
+  { name: "Produce", image: "produce.jpeg" },
+  { name: "Beverages", image: "beverages.jpeg" },
+  { name: "Frozen", image: "frozen.jpeg" },
 ];
 
 export default function CategoryGrid() {
