@@ -311,7 +311,7 @@ export default function Navbar() {
             <Menu className="w-5 h-5 sm:w-6 sm:h-6" />
           </button>
           <h1 className="text-base sm:text-lg font-bold tracking-tight">
-            Your grocery
+            MyGrocery
           </h1>
         </div>
 
